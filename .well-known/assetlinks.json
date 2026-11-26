@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.peakbali.footballgm",
+      "sha256_cert_fingerprints": [
+        "7C:3C:54:AC:EB:63:F1:8F:BD:67:5D:0B:AA:50:D7:DC:CA:3A:26:08:CA:F4:4C:5D:83:76:FD:95:66:28:0E:11",
+        "D6:FF:89:F7:03:08:57:E7:4E:07:9A:56:35:85:CC:A8:8E:F1:09:3A:86:1B:94:07:DE:BE:D9:55:5E:83:62:5F"
+      ]
+    }
+  }
+]
